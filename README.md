@@ -27,3 +27,23 @@ Overall, the main points are to observe the tradeoff between the scale of the pr
 
 
 
+# Task 1 Gate Tomography
+
+When designing a set of universal gates, one must prove that any unitary operation can be performed by combining gates of that set, which is known as circuit equivalence. In this case, you have to find the parameters of the U3 gates.
+
+
+
+# Task 2  Complex Amplitudes
+
+Your goal is to implement a routine that prepares a two-qubit quantum state given a set of complex amplitudes. The solution should be written from scratch, without relying on high-level quantum libraries (e.g., Qiskit’s initialize, PennyLane’s state preparation templates, etc.).
+
+
+
+
+
+
+
+
+
+
+
