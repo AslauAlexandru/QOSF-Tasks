@@ -1,5 +1,10 @@
 # QOSF Tasks
 
+Google Colab links for notebooks:
+
+- [QOSF_Task_4_QSVM.ipynb](https://colab.research.google.com/drive/1NZP2kaNmavuEQ8g1vkOLRYGjxOEuvTF3?usp=sharing)
+
+- []()
 
 # Task 4 QSVM
 
