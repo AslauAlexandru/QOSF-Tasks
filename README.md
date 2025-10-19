@@ -4,7 +4,7 @@ Google Colab links for notebooks:
 
 - [QOSF_Task_4_QSVM.ipynb](https://colab.research.google.com/drive/1NZP2kaNmavuEQ8g1vkOLRYGjxOEuvTF3?usp=sharing): [here](https://colab.research.google.com/drive/1NZP2kaNmavuEQ8g1vkOLRYGjxOEuvTF3?usp=sharing)
 
-- []()
+- [QOSF_Task_1_Gate_Tomography_Task_2_Complex_Amplitudes.ipynb](https://colab.research.google.com/drive/1VaubNu1ZxmP7Kxy8phvreBxnis1lTq5t?usp=sharing): [here](https://colab.research.google.com/drive/1VaubNu1ZxmP7Kxy8phvreBxnis1lTq5t?usp=sharing)
 
 # Task 4 QSVM
 
